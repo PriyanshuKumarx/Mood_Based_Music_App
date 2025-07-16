@@ -35,7 +35,7 @@ _Discover perfect music that matches your current mood_
 
 | Name              | GitHub                                                | Email                           |
 | ----------------- | ----------------------------------------------------- | ------------------------------- |
-| [Priyamshu Kumar] | [PriyanshuKumarx](https://github.com/PriyanshuKumarx) | priyanshukumarx7814@gmail.com |
+| Priyamshu Kumar | [PriyanshuKumarx](https://github.com/PriyanshuKumarx) | priyanshukumarx7814@gmail.com |
 
 ---
 
